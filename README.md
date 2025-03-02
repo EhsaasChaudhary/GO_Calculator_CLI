@@ -33,7 +33,7 @@ cd cli-calculator
 ### Build the Project
 
 ```sh
-go build -o calculator
+go build -o calculator.exe
 ```
 
 ### Run the CLI Application
